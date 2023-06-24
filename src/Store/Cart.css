@@ -7,8 +7,8 @@
     width:100vh;
     margin-top:15vh;
     margin-bottom: 30px;
-    box-shadow:4px 5px 12px 3px rgba(0, 0, 0,0.4); 
-    background-color: 	rgba(191, 191, 191, 0);
+    box-shadow:4px 5px 12px 3px rgba(177, 43, 43, 0.4); 
+    background-color: 	rgba(64, 28, 28, 0);
 }
 
 .count{
@@ -21,7 +21,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    border-bottom: 2px solid  rgb(174, 172, 172);;
+    border-bottom: 2px solid  rgb(83, 31, 31);;
     border-radius: 1px;
 }
 
@@ -35,7 +35,7 @@
     border-radius: 20px;
     font-weight: bold;
     background-color: rgb(49, 48, 48);
-    color: white;
+    color: rgb(62, 35, 35);
     padding: 2px;
     font-size: 12px;
     cursor: pointer;
@@ -46,7 +46,7 @@
     border-radius: 20px;
     font-weight: bold;
     background-color: rgb(49, 48, 48);
-    color: white;
+    color: rgb(59, 50, 50);
     padding: 2px;
     font-size: 12px;
     cursor: pointer;
@@ -70,13 +70,13 @@
 }
 .price{
 font-weight: 500;
-color: red;
+color: rgb(97, 71, 197);
 
 }
 .removeButton{
     border: none;
     background-color: rgb(49, 48, 48);
-    color:white;
+    color:rgb(101, 19, 19);
     border-radius: 20px;
     padding:5px 10px;
     font-size:15px;
